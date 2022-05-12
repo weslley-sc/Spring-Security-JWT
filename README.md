@@ -12,7 +12,7 @@
 
 ### [](https://github.com/weslley-sc/Spring-Security-JWT#--sobre-o-projeto) 🔥 Sobre o projeto
 
-Projeto desenvolvido durante o curso Spring-Security-JWT da <a src="https://web.dio.me">DIO.me</a>.
+Projeto desenvolvido durante o curso Spring-Security-JWT da <a href="https://web.dio.me">DIO.me</a>.
 
 A aplicação consiste em criar usuários com autorização e ao fazer login é gerado um token de autenticação. Cada usuário tem suas permissões de qual rota poderá acessar. Essa permissão é definida na criação do usuário no "ROLE"
 <br/>
