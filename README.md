@@ -21,6 +21,7 @@ A aplicação consiste em criar usuários com autorização e ao fazer login é 
 Cadastro de usuário:
 <br/>
 endpoiont: http://localhost:8080/users
+
 ```
 {
 	"name": "Gleydson",
@@ -32,6 +33,7 @@ endpoiont: http://localhost:8080/users
 	]
 }
 ```
+
 <br/>
 =========================
 <br/>
