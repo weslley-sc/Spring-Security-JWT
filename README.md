@@ -17,7 +17,9 @@ Projeto desenvolvido durante o curso Spring-Security-JWT da <a src="https://web.
 A aplicação consiste em criar usuários com autorização e ao fazer login é gerado um token de autenticação. Cada usuário tem suas permissões de qual rota poderá acessar. Essa permissão é definida na criação do usuário no "ROLE"
 <br/>
 =========================
+<br/>
 Cadastro de usuário:
+<br/>
 endpoiont: http://localhost:8080/users
 ```
 {
@@ -32,8 +34,10 @@ endpoiont: http://localhost:8080/users
 ```
 <br/>
 =========================
+<br/>
 Login:
-Endpoint:http://localhost:8080/login
+<br/>
+Endpoint: http://localhost:8080/login
 
 ```
 {
